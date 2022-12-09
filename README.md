@@ -51,6 +51,15 @@ Procedimiento
 
 
 
+
+*Simulacion En Tinckercad* 
+
+![image](https://user-images.githubusercontent.com/116819100/206619425-d6a2cd3d-b287-45f4-9d42-08b991c834c5.png)
+
+
+
+
+
 *Simulacion En Proteus* 
 
 
@@ -61,11 +70,25 @@ Procedimiento
 
 
 
+Tabla de Resultados 
+
+
+
+
+
 
 
 -------------------------------------------------------------------
 
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+
+
+
+
+
+
+
+
 
 
 
