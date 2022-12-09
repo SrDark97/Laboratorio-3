@@ -47,19 +47,7 @@ MATERIALES Y EQUIPOS
 
 Procedimiento
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/116819100/206618414-32f7db89-557f-47f2-9cdc-29c3e9855ad3.png)
 
 
 
