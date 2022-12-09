@@ -34,7 +34,29 @@ II)
 MATERIALES Y EQUIPOS
 
 
+
+![image](https://user-images.githubusercontent.com/116819100/206618141-e77ae16d-3eef-450e-8597-b1ea09aa6654.png)
+
+
+
+
+
+
+
+
+
 Procedimiento
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -43,8 +65,9 @@ Procedimiento
 
 *Simulacion En Proteus* 
 
-![image](https://user-images.githubusercontent.com/116819100/206617435-d80dfc43-7676-46ed-8cf8-ac93f432fbdf.png)
 
+
+![image](https://user-images.githubusercontent.com/116819100/206617435-d80dfc43-7676-46ed-8cf8-ac93f432fbdf.png)
 
 
 
@@ -69,6 +92,16 @@ Procedimiento
 ------------------------------------------------------------------------
 
 **1.6 VIDEO**
+
+
+
+
+
+
+
+
+
+
 
 
 
