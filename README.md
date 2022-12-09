@@ -1,18 +1,19 @@
-![título](https://user-images.githubusercontent.com/116821721/202736270-9aeaed24-33af-4ba9-a4f5-1d5c9c2afd1b.jpg)
+![título](https://user-images.githubusercontent.com/116821721/206622750-1bc1323a-8c5d-4db0-acd4-85ec94e0091d.jpg)
 
 **1.OBJETIVO GENERAL**
 
-
+Analizar los tipos de nodos existentes en un circuito y su importancia a la hora del calculo de voltajes y corrientes.
 
 **1.2 OBJETIVOS ESPECIFICOS**
 
-I) 
+I) Utilizar la ley de corrientes de Kirchhoff para la práctica de análisis de nodos.
 
-II) 
+II) Distinguir las distintas polaridades y direcciones de corriente presentes en un circuito.
 
 --------------------------------------------------------------
 **1.3 MARCO TEÓRICO**
 
+![image](https://user-images.githubusercontent.com/116821721/206622815-89903744-2dab-418d-9f77-b27615c4d373.png)
 
 
 
@@ -83,9 +84,6 @@ Tabla de Resultados
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 
-
-z
-![image](https://user-images.githubusercontent.com/116819100/206622708-7643efcb-651e-498b-b635-b98f8952d7ba.png)
 
 
 
